@@ -3,7 +3,8 @@ const productData = {
         id: 1,
         name: "Men Regular Fit Checkered Spread Collar Casual Shirt",
         photo: "https://rukminim1.flixcart.com/image/800/960/kt0enww0/shirt/r/z/e/m-a1atw198-tommy-hilfiger-original-imag6g7fgfywz28n.jpeg?q=50",
-        description: "",
+        description:
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
         isAccessory: false,
         isMenFashion: true,
         brand: "Tommy Hilfiger",
@@ -13,7 +14,8 @@ const productData = {
         id: 2,
         name: "Color Block Men Polo Neck Red T-Shirt",
         photo: "https://rukminim1.flixcart.com/image/800/960/kvpklu80/t-shirt/3/n/x/m-a1atk319-tommy-hilfiger-original-imag8jv27jjg9fpm.jpeg?q=50",
-        description: "",
+        description:
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
         isAccessory: false,
         isMenFashion: true,
         brand: "Tommy Hilfiger",
@@ -23,7 +25,8 @@ const productData = {
         id: 3,
         name: "Men Slim Fit Checkered Spread Collar Casual Shirt",
         photo: "https://rukminim1.flixcart.com/image/800/960/kngd0nk0/shirt/0/s/x/m-32874-0249-levi-s-original-imag24snqsw95yu6.jpeg?q=50",
-        description: "",
+        description:
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
         isAccessory: false,
         isMenFashion: true,
         brand: "LEVI'S",
@@ -33,7 +36,8 @@ const productData = {
         id: 4,
         name: "Men Regular Fit Checkered Spread Collar Casual Shirt",
         photo: "https://rukminim1.flixcart.com/image/800/960/kuczmvk0/shirt/0/4/h/m-17658-0099-levi-s-original-imag7gybr7fcuz5u.jpeg?q=50",
-        description: "",
+        description:
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
         isAccessory: false,
         isMenFashion: true,
         brand: "LEVI'S",
@@ -43,7 +47,8 @@ const productData = {
         id: 5,
         name: "Men Slim Fit Checkered Button Down Collar Casual Shirt",
         photo: "https://rukminim1.flixcart.com/image/800/960/ktd9mkw0/shirt/c/m/z/m-udsht0218-u-s-polo-assn-original-imag6q7gehmumzjz.jpeg?q=50",
-        description: "",
+        description:
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
         isAccessory: false,
         isMenFashion: true,
         brand: "U.S. POLO ASSN.",
@@ -53,7 +58,8 @@ const productData = {
         id: 6,
         name: "Solid Men Round Neck Orange T-Shirt",
         photo: "https://rukminim1.flixcart.com/image/800/960/k3yrte80/t-shirt/p/q/h/xl-i681-705-pl-u-s-polo-assn-original-imafmzcv5e53zxmh.jpeg?q=50",
-        description: "",
+        description:
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
         isAccessory: false,
         isMenFashion: true,
         brand: "U.S. POLO ASSN.",
@@ -63,7 +69,8 @@ const productData = {
         id: 7,
         name: "Skinny Men Blue Jeans",
         photo: "https://rukminim1.flixcart.com/image/800/960/k5y7tzk0/jean/t/k/d/30-211880102-jack-jones-original-imafzgq5s6umekrq.jpeg?q=50",
-        description: "",
+        description:
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
         isAccessory: false,
         isMenFashion: true,
         brand: "JACK & JONES",
@@ -73,7 +80,8 @@ const productData = {
         id: 8,
         name: "Slim Men Dark Blue Jeans",
         photo: "https://rukminim1.flixcart.com/image/800/960/kp78e4w0/jean/n/9/g/32-aldnvtrfc50761-allen-solly-original-imag3hfrgaq9fmes.jpeg?q=50    ",
-        description: "",
+        description:
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
         isAccessory: false,
         isMenFashion: true,
         brand: "Allen Solly ",
@@ -83,7 +91,8 @@ const productData = {
         id: 9,
         name: "Tapered Fit Men Black Jeans",
         photo: "https://rukminim1.flixcart.com/image/800/960/ku4ezrk0/jean/x/8/v/32-22960-0004-levi-s-original-imag7b8rgfhc9sbt.jpeg?q=50 ",
-        description: "",
+        description:
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
         isAccessory: false,
         isMenFashion: true,
         brand: "LEVI'S ",
@@ -93,7 +102,8 @@ const productData = {
         id: 10,
         name: "Tapered Fit Men Black Jeans",
         photo: "https://rukminim1.flixcart.com/image/800/960/ku4ezrk0/jean/x/8/v/32-22960-0004-levi-s-original-imag7b8rgfhc9sbt.jpeg?q=50 ",
-        description: "",
+        description:
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
         isAccessory: false,
         isMenFashion: true,
         brand: "LEVI'S ",
@@ -103,7 +113,8 @@ const productData = {
         id: 11,
         name: "Casual Puff Sleeves Printed Women Pink Top",
         photo: "https://rukminim1.flixcart.com/image/800/960/kshtxu80/top/l/q/p/s-215tk111-selvia-original-imag6fvbju6reehp.jpeg?q=50",
-        description: "",
+        description:
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
         isAccessory: false,
         isMenFashion: false,
         brand: "Selvia ",
@@ -113,7 +124,8 @@ const productData = {
         id: 12,
         name: "Casual Regular Sleeves Solid Women Black Top",
         photo: "https://rukminim1.flixcart.com/image/800/960/kdxfc7k0-0/t-shirt/o/x/y/l-ji-apple-tshirt-black-xl-fasla-original-imafupsjjbgdtwxp.jpeg?q=50",
-        description: "",
+        description:
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
         isAccessory: false,
         isMenFashion: false,
         brand: "GIRLS SHOPPIE",
@@ -123,7 +135,8 @@ const productData = {
         id: 13,
         name: "Women Regular Fit Striped Spread Collar Casual Shirt",
         photo: "https://rukminim1.flixcart.com/image/800/960/kd7pevk0/shirt/7/g/b/s-ttsh000905-tokyo-talkies-original-imafu5tz94kzs4jr.jpeg?q=50",
-        description: "",
+        description:
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
         isAccessory: false,
         isMenFashion: false,
         brand: "Tokyo Talkies ",
@@ -133,7 +146,8 @@ const productData = {
         id: 14,
         name: "Casual Regular Sleeves Printed Women Black Top",
         photo: "https://rukminim1.flixcart.com/image/800/960/k5lcvbk0pkrrdj/top/j/r/m/xl-gwr006-glance-designs-6-original-imafz5nan9rv3xcy.jpeg?q=50",
-        description: "",
+        description:
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
         isAccessory: false,
         isMenFashion: false,
         brand: "BLANCORA",
@@ -143,7 +157,8 @@ const productData = {
         id: 15,
         name: "Solid Women Round Neck White T-Shirt",
         photo: "https://rukminim1.flixcart.com/image/800/960/kx7vc7k0/t-shirt/n/k/v/xxl-9802280103890100-xtep-original-imag9pusgwfesb4f.jpeg?q=50",
-        description: "",
+        description:
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
         isAccessory: false,
         isMenFashion: false,
         brand: "Xtep",
@@ -153,7 +168,8 @@ const productData = {
         id: 16,
         name: "Embroidered Fashion Nylon Blend, Net Saree  (Light Blue)",
         photo: "https://rukminim1.flixcart.com/image/800/960/jubjte80/sari/m/a/q/free-ptrsa2728-1-saree-delizia-original-imaff856fnzf9t5g.jpeg?q=50",
-        description: "",
+        description:
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
         isAccessory: false,
         isMenFashion: false,
         brand: "DOLVIA",
@@ -163,7 +179,8 @@ const productData = {
         id: 17,
         name: "Self Design, Woven Banarasi Silk Blend Saree",
         photo: "https://rukminim1.flixcart.com/image/800/960/khcb7gw0/sari/1/u/6/free-bs332a-kalaa-varsha-unstitched-original-imafxdm4haxsgpey.jpeg?q=50",
-        description: "",
+        description:
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
         isAccessory: false,
         isMenFashion: false,
         brand: "Kalaa Varsha",
@@ -173,7 +190,8 @@ const productData = {
         id: 18,
         name: "Women Embroidered Rayon Straight Kurta  (Blue)",
         photo: "https://rukminim1.flixcart.com/image/800/960/kwdv3bk0/kurta/d/d/n/m-863-blue-jaffry-embroidery-original-imag92nn6c2ukk77.jpeg?q=50",
-        description: "",
+        description:
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
         isAccessory: false,
         isMenFashion: false,
         brand: "JAFFRY EMBROIDERY",
@@ -183,7 +201,8 @@ const productData = {
         id: 19,
         name: "Women Printed Rayon Straight Kurta  (Dark Green)",
         photo: "https://rukminim1.flixcart.com/image/800/960/kikluvk0-0/kurta/q/k/w/xl-fd15-dgreen-fashion-depth-original-imafyca8k5npwzrz.jpeg?q=50",
-        description: "",
+        description:
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
         isAccessory: false,
         isMenFashion: false,
         brand: "FASHION DEPTH",
@@ -193,27 +212,20 @@ const productData = {
         id: 20,
         name: "Women Printed Rayon A-line Kurta  (Black, Maroon)",
         photo: "https://rukminim1.flixcart.com/image/800/960/khtghow0-0/kurta/z/q/f/m-black-jacket-asha-fashions-original-imafxr8tjzrgcxz7.jpeg?q=50",
-        description: "",
+        description:
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
         isAccessory: false,
         isMenFashion: false,
         brand: "Asha Fasions",
         price: 2500,
     },
+
     prod21: {
         id: 21,
         name: "Women Yellow Shoulder Bag - Extra Spacious",
         photo: "https://rukminim1.flixcart.com/image/800/960/kua4r680/hand-messenger-bag/s/e/a/lwhb02253yellow-lwhb02253yellow-shoulder-bag-lino-perros-original-imag7f44swhgt9ty.jpeg?q=50",
-        description: "",
-        isAccessory: true,
-        isMenAccessory: false,
-        brand: "LINO PERROS",
-        price: 1600,
-    },
-    prod21: {
-        id: 21,
-        name: "Women Yellow Shoulder Bag - Extra Spacious",
-        photo: "https://rukminim1.flixcart.com/image/800/960/kua4r680/hand-messenger-bag/s/e/a/lwhb02253yellow-lwhb02253yellow-shoulder-bag-lino-perros-original-imag7f44swhgt9ty.jpeg?q=50",
-        description: "",
+        description:
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
         isAccessory: true,
         isMenAccessory: false,
         brand: "LINO PERROS",
@@ -223,7 +235,8 @@ const productData = {
         id: 22,
         name: "Women Pink, White Shoulder Bag - Extra Spacious",
         photo: "https://rukminim1.flixcart.com/image/800/960/krntoy80/hand-messenger-bag/m/m/u/stylish-fashion-trendy-college-casual-formal-office-handbags-original-imag5eswqkdk68gw.jpeg?q=50",
-        description: "",
+        description:
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
         isAccessory: true,
         isMenAccessory: false,
         brand: "Relic NexGen",
@@ -233,7 +246,8 @@ const productData = {
         id: 23,
         name: "Women Evening/Party Pink, Blue Artificial Leather Wallet - Mini  (5 Card Slots)",
         photo: "https://rukminim1.flixcart.com/image/800/960/jshtk7k0/wallet-card-wallet/j/y/3/wallet-for-women-small-compact-wallet-bifold-credit-card-holder-original-imafeyxssapueakm.jpeg?q=50",
-        description: "",
+        description:
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
         isAccessory: true,
         isMenAccessory: false,
         brand: "SYGA",
@@ -243,7 +257,8 @@ const productData = {
         id: 24,
         name: "Women Casual Black Artificial Leather Belt",
         photo: "https://rukminim1.flixcart.com/image/800/960/khkvukw0/belt/y/m/u/one-size-meltring-blk-meltring-blk-belt-kastner-original-imafxk9ghskhfgm4.jpeg?q=50",
-        description: "",
+        description:
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
         isAccessory: true,
         isMenAccessory: false,
         brand: "Kastner",
@@ -253,7 +268,8 @@ const productData = {
         id: 25,
         name: "Green Women Sling Bag - Regular Size",
         photo: "https://rukminim1.flixcart.com/image/800/960/ktlu9ow0/sling-bag/z/9/d/green-women-sling-bag-1-15-ahbgfrgbk20012-sling-bag-allen-solly-original-imag6xy4qkgrzhhw.jpeg?q=50",
-        description: "",
+        description:
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
         isAccessory: true,
         isMenAccessory: false,
         brand: "Allen Solly",
@@ -263,7 +279,8 @@ const productData = {
         id: 26,
         name: "Men Black Genuine Leather Wallet - Mini  (3 Card Slots)",
         photo: "https://rukminim1.flixcart.com/image/800/960/ku04o7k0/wallet-card-wallet/l/j/e/bifold-wallet-11-1-tw277lm1bk-3-wallet-titan-9-original-imag77veghdhhzzp.jpeg?q=50",
-        description: "",
+        description:
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
         isAccessory: true,
         isMenAccessory: true,
         brand: "Titan",
@@ -273,7 +290,8 @@ const productData = {
         id: 27,
         name: "Boys Brown Artificial Leather Wallet - Mini  (3 Card Slots)",
         photo: "https://rukminim1.flixcart.com/image/800/960/kjswia80/wallet-card-wallet/1/3/b/bv-vx-wallet-wenzest-original-imafzaaar6j9j8hm.jpeg?q=50",
-        description: "",
+        description:
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
         isAccessory: true,
         isMenAccessory: true,
         brand: "WENZEST",
@@ -283,7 +301,8 @@ const productData = {
         id: 28,
         name: "Men Formal Brown Genuine Leather Belt",
         photo: "https://rukminim1.flixcart.com/image/800/960/ku1k4280/belt/x/0/1/38-brown-single-sided-belt-b0432lbr03l-belt-fastrack-original-imag796hzewzw9dy.jpeg?q=50",
-        description: "",
+        description:
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
         isAccessory: true,
         isMenAccessory: true,
         brand: "Fastrack",
@@ -293,7 +312,8 @@ const productData = {
         id: 29,
         name: "Men Party, Formal, Casual Black Texas Leatherite Reversible Belt",
         photo: "https://rukminim1.flixcart.com/image/800/960/kqpj4i80hlty2aw/belt/g/s/z/hy-0134-34-urban-alfami-original-imag4q3fup8ut5jz.jpeg?q=50",
-        description: "",
+        description:
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
         isAccessory: true,
         isMenAccessory: true,
         brand: "URBAN ALFAMI",
@@ -303,7 +323,8 @@ const productData = {
         id: 30,
         name: "Medium 25 L Backpack DRZ_1004_NAVY  (Blue)",
         photo: "https://rukminim1.flixcart.com/image/800/960/k4vmxzk0/laptop-bag/b/j/p/durable-material-1004-laptop-backpack-drazo-original-imafmzsbvtryxkgz.jpeg?q=50",
-        description: "",
+        description:
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
         isAccessory: true,
         isMenAccessory: true,
         brand: "DRAZO",
